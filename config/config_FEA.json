@@ -1,0 +1,19 @@
+{   
+    "FEA_config": {
+        "in_channels": 8, 
+        "out_channels":8,
+        "num_res_layers": 18,
+        "res_channels": 32, 
+        "skip_channels": 32,
+        "diffusion_step_embed_dim_in": 256,
+        "diffusion_step_embed_dim_mid": 256,
+        "diffusion_step_embed_dim_out": 256,
+        "s4_lmax": 800,
+        "s4_d_state":64,
+        "s4_dropout":0.2,
+        "s4_bidirectional":1,
+        "s4_layernorm":1,
+        "y_len":206,
+        "pred_len":14
+    }
+}
