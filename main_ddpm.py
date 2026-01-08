@@ -6,7 +6,7 @@ from exp.exp_main import Exp_Main
 import random
 import numpy as np
 
-parser = argparse.ArgumentParser(description='Non-stationary Diffusion for Time Series Forecasting')
+parser = argparse.ArgumentParser(description='Dual Trajectory Revised Diffusion Model for Time Series Forecasting')
 
 # basic config
 parser.add_argument('--ii', type=int, default=0)
