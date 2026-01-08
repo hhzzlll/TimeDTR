@@ -1,4 +1,4 @@
-# DUAL TRAJECTORY REVISED DIFFUSION MODEL FOR TIME SERIES FORECASTING
+# Dual Trajectory Revised Diffusion Model for Time Series Forecasting
 ## TimeDTR
 This repository contains code for the paper, DUAL TRAJECTORY REVISED DIFFUSION MODEL FOR TIME SERIES FORECASTING.
 ## Abstract
